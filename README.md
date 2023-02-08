@@ -1,6 +1,8 @@
 ## 这是什么
 这个仓库收集了一些自己对嵌入式c的思考以及第三方嵌入式相关的开源代码，以方便自己以及他人学习之用。对于第三方的模块，大多来自[github](https://github.com/)。如果你点击链接后网页无法显示，为了让自己有更多的时间享受生活，你可能需要准备一把梯子。
 
+仓库会不定时更新，为了避免迷路，最好点颗星。
+
 ## 嵌入式常用数据结构与算法
 
 [malloc](https://danluu.com/malloc-tutorial/) - malloc的实现原理讲解。
@@ -107,7 +109,7 @@ CLI(命令行界面)
 [科技爱好者周刊](https://github.com/ruanyf/weekly) - 阮一峰的科技分享。
 
 ## 其他
-[Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时的AGC（制导计算机）系统，仅用来膜拜用。
+[Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时的AGC（制导计算机）系统，仅用来膜拜。
 
 ## 贡献
 贡献规则：
