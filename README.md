@@ -109,7 +109,7 @@ CLI(命令行界面)
 [科技爱好者周刊](https://github.com/ruanyf/weekly) - 阮一峰的科技分享。
 
 ## 其他
-[Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时的AGC（制导计算机）系统，仅用来膜拜。
+[Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时登月舱的AGC（制导计算机）系统，仅用来膜拜。
 
 [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) - 怎么问问题？与编程没有直接关系，但也很重要。
 
