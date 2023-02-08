@@ -111,6 +111,8 @@ CLI(命令行界面)
 ## 其他
 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时的AGC（制导计算机）系统，仅用来膜拜。
 
+[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) - 怎么问问题？与编程没有直接关系，但也很重要。
+
 ## 贡献
 贡献规则：
 > \[仓库名称](仓库网址) - 简要的描述。 
