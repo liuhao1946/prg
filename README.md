@@ -57,11 +57,11 @@ RTOS
 * [rt-thread](https://gitee.com/rtthread/rt-thread) - 国产免费开源RTOS。
 
 CLI(命令行界面)
-[lwshell](https://github.com/MaJerle/lwshell) - 用于嵌入式系统的轻量级、平台无关的命令行 shell。
+* [lwshell](https://github.com/MaJerle/lwshell) - 用于嵌入式系统的轻量级、平台无关的命令行 shell。
 
-[xcmd](https://gitee.com/two_salted_eggs/xcmd) - 为单片机提供一个能够快速搭建且占用资源很小的命令行工具。
+* [xcmd](https://gitee.com/two_salted_eggs/xcmd) - 为单片机提供一个能够快速搭建且占用资源很小的命令行工具。
 
-[nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) - 针对资源较少的MCU编写的基本命令行工具。
+* [nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) - 针对资源较少的MCU编写的基本命令行工具。
 
 [CherryUSB](https://gitee.com/RT-Thread-Mirror/CherryUSB?_from=gitee_search) - 用于嵌入式系统的USB（带USB IP）主从协议栈。
 
