@@ -98,8 +98,6 @@ CLI(命令行界面)
 
 [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst) - Linux内核代码风格。
 
-[c-code-style](https://github.com/MaJerle/c-code-style) - 来自ST的工程师的c代码风格。
-
 ## 工具
 [RTT-T](https://gitee.com/bds123/RTT-T) - 如果你只使用官方RTT Viewer收/发来自SEGGER RTT的数据，这款软件在这点上比RTT Viewer做的更好。
 
