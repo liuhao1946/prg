@@ -3,7 +3,7 @@
 
 仓库会不定时更新，为了避免迷路，最好点颗星或者Watch。
 
-## 嵌入式常用数据结构与算法
+## 嵌入式C常用数据结构与算法
 
 [malloc](https://danluu.com/malloc-tutorial/) - malloc的实现原理讲解。
 
@@ -18,7 +18,7 @@ IMU融合算法
 
 
 
-## 嵌入式c的程序设计方法
+## 嵌入式C程序设计方法
 [book_cprogramming](https://github.com/gurugio/book_cprogramming) - C中的框架与插件设计，里面介绍了如何使用C编写更高质量的程序。
 
 [bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - 裸机编程指南。为那些希望用GCC编译器和数据手册而无需其他任何东西就能开始为微控制器（单片机）编程的开发者而写。
