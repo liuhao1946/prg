@@ -101,9 +101,6 @@ CLI(命令行界面)
 ## 工具
 [RTT-T](https://gitee.com/bds123/RTT-T) - 如果你只使用官方RTT Viewer收/发来自SEGGER RTT的数据，这款软件在这点上比RTT Viewer做的更好。
 
-## 书籍
-[大话设计模式]() - 使用C#描述的设计模式。尽管C不是面向对象语言，但其思想依然有重要的参考价值。
-
 ## 其他
 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时登月舱的AGC（制导计算机）系统，仅用来膜拜。
 
