@@ -31,7 +31,7 @@ GPS数据解析库
 
 * [lwgps](https://github.com/MaJerle/lwgps) - 轻量级GPS NMEA解析库。
 
-GUI库
+GUI
 * [UGUI](https://github.com/achimdoebler/UGUI) - 开源小型GUI，该仓库已经停止维护。虽然提供的功能很少，但做为学习GUI原理的却是一份相当不错的资料。
 
 * [awtk](https://github.com/zlgopen/awtk/blob/master/README_zh.md) - 周立功出品的开源GUI，看上去比较流行。该开源GUI目前是由《系统程序员成长计划》的作者李先静维护。
@@ -44,6 +44,8 @@ GUI库
 
 * [LingLongGUI](https://gitee.com/gzbkey/LingLongGUI) - 适用于嵌入式平台的国产GUI。
 
+* [u8g2](https://github.com/olikraus/u8g2) - 适合嵌入式平台的单色图形库。
+
 文件系统
 * [fatfs](https://github.com/abbrev/fatfs) - 用于小型嵌入式系统的通用 FAT 文件系统模块。
 
@@ -55,6 +57,8 @@ RTOS
 * [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - 免费开源的嵌入式RTOS。
 
 * [rt-thread](https://gitee.com/rtthread/rt-thread) - 国产免费开源RTOS。
+
+* [zephyr](https://github.com/zephyrproject-rtos/zephyr) - 貌似这款RTOS越来越流行了。
 
 CLI(命令行界面)
 * [lwshell](https://github.com/MaJerle/lwshell) - 用于嵌入式系统的轻量级、平台无关的命令行 shell。
@@ -100,7 +104,7 @@ CLI(命令行界面)
 [RTT-T](https://gitee.com/bds123/RTT-T) - 如果你只使用官方RTT Viewer收/发来自SEGGER RTT的数据，这款软件在这点上比RTT Viewer做的更好。
 
 ## 书籍
-
+[大话设计模式]() - 使用C#描述的设计模式。尽管C不是面向对象语言，但其思想依然有重要的参考价值。
 
 ## 其他
 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时登月舱的AGC（制导计算机）系统，仅用来膜拜。
@@ -114,6 +118,8 @@ CLI(命令行界面)
 [document-style-guide](https://github.com/ruanyf/document-style-guide) - 阮一峰的中文文档写作指南。
 
 [科技爱好者周刊](https://github.com/ruanyf/weekly) - 阮一峰的科技分享。
+
+[Arduino](https://github.com/arduino) - Arduino的代码库，你可以从中找到很多很好的适合嵌入式平台的C++库。
 
 ## 贡献
 贡献规则：
