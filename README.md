@@ -99,9 +99,6 @@ CLI(命令行界面)
 
 [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst) - Linux内核代码风格。
 
-## 工具
-[RTT-T](https://gitee.com/bds123/RTT-T) - 如果你只使用官方RTT Viewer收/发来自SEGGER RTT的数据，这款软件在这点上比RTT Viewer做的更好。
-
 ## 其他
 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时登月舱的AGC（制导计算机）系统，仅用来膜拜。
 
