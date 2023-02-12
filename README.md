@@ -4,6 +4,7 @@
 仓库会不定时更新，为了避免迷路，最好点颗星或者Watch。
 
 ## 嵌入式C常用数据结构与算法
+[queue](https://gitee.com/bds123/prg/tree/master/queue) - 本人编写的常常用于各种项目的队列模块。
 
 [malloc](https://danluu.com/malloc-tutorial/) - malloc的实现原理讲解。
 
