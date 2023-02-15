@@ -6,6 +6,8 @@
 ## 嵌入式C常用数据结构与算法
 [queue](https://gitee.com/bds123/prg/tree/master/queue) - 本人编写的常常用于各种项目的队列模块。
 
+[data structuring](https://gitee.com/bds123/prg/tree/master/data%20structuring) - 一种数据结构化的例子，特别对协议数据的结构化比较有帮助。
+
 [malloc](https://danluu.com/malloc-tutorial/) - malloc的实现原理讲解。
 
 [write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - 用C写一个哈希表（键值对），是一分很好的参考资料。
