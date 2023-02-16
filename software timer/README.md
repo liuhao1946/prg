@@ -52,7 +52,7 @@ main()
     timer_init();
     //创建一个延迟10ms第一次运行之后每隔100ms运行一次的软件定时器
     //该定时器在创建后不立刻运行
-    app_construct_clk（&sf_timer, test_100ms, 10, 100, 0);
+    app_construct_clk(&sf_timer, test_100ms, 10, 100, 0);
     //启动定时任务
     app_clk_start(&sf_timer);
     while(1)
