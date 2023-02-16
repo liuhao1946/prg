@@ -1,5 +1,14 @@
-#include "app_clk.h"
+# 软件定时器
 
+## 简介
+本模块是一个软件定时器，与平台无关，可以用来创建各种定时任务，能满足多样化需求。
+
+## API
+见**app_clk.h**描述。
+
+## 例子
+```c
+#include "app_clk.h"
 
 /*
 移植说明：
@@ -8,7 +17,6 @@
 
 2、如果要使每个定时任务尽量占用少的RAM，需要把a_size_t（app_clk.h）改为unsigned char
 */
-
 
 app_clk_t sf_timer;
 volatile  uint8_t timer_1ms_f;
@@ -56,3 +64,4 @@ main()
         }
     }
 }
+```
