@@ -3,7 +3,7 @@
 
 仓库会不定时更新，为了避免迷路，最好点颗星或者Watch。
 
-如果想查看仓库的最新更新，请移步到[发行版](https://gitee.com/bds123/prg/releases)
+如果想查看仓库的最新更新，请移步到[**发行版**](https://gitee.com/bds123/prg/releases)
 
 ## 嵌入式C常用数据结构与算法
 [software timer](https://gitee.com/bds123/prg/tree/master/software%20timer) - 自己写的软件定时器，与平台无关，能满足多样化需求。
