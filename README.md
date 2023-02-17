@@ -76,7 +76,10 @@ CLI(命令行界面)
 
 * [nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) - 针对资源较少的MCU编写的基本命令行工具。
 
-[CherryUSB](https://gitee.com/RT-Thread-Mirror/CherryUSB?_from=gitee_search) - 用于嵌入式系统的USB（带USB IP）主从协议栈。
+USB协议栈
+* [CherryUSB](https://gitee.com/RT-Thread-Mirror/CherryUSB?_from=gitee_search) - 用于嵌入式系统的USB（带USB IP）主从协议栈。
+
+* [tinyusb](https://github.com/hathach/tinyusb) - github上比较流行的用于嵌入式系统的开源跨平台 USB 主机/设备堆栈。
 
 [stm32-bootloader](https://github.com/akospasztor/stm32-bootloader) - 用于STM32微控制器的可定制的Bootloader。该项目可应用于利用外部SD卡对STM32进行IAP（in-application-programming）编程。
 
