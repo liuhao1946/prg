@@ -56,9 +56,9 @@ GUI
 * [u8g2](https://github.com/olikraus/u8g2) - 适合嵌入式平台的单色图形库。
 
 文件系统
-* [fatfs](https://github.com/abbrev/fatfs) - 用于小型嵌入式系统的通用 FAT 文件系统模块。
+* [fatfs](https://github.com/abbrev/fatfs) - 用于小型嵌入式系统的通用 FAT 文件系统模块，该文件系统能直接被windows支持。
 
-* [littlefs](https://github.com/littlefs-project/littlefs) - 为微控制器设计的小型文件系统。
+* [littlefs](https://github.com/littlefs-project/littlefs) - 为微控制器设计的小型文件系统。该文件系统比fatfs更流行，但遗憾的是windows不兼容这个文件系统。
 
 RTOS
 * [uC-OS3](https://github.com/weston-embedded/uC-OS3) - 嵌入式RTOS但不免费。
