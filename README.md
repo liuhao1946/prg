@@ -37,6 +37,32 @@ IMU融合算法
 ## 第三方嵌入式开源库
 
 
+文件系统
+* [fatfs](https://github.com/abbrev/fatfs) - 用于小型嵌入式系统的通用 FAT 文件系统模块，该文件系统能直接被windows支持。
+
+* [littlefs](https://github.com/littlefs-project/littlefs) - 为微控制器设计的小型文件系统。该文件系统比fatfs更流行，但遗憾的是windows不兼容这个文件系统。
+
+RTOS
+* [uC-OS3](https://github.com/weston-embedded/uC-OS3) - 嵌入式RTOS但不免费。
+
+* [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - 免费开源的嵌入式RTOS。
+
+* [rt-thread](https://gitee.com/rtthread/rt-thread) - 国产免费开源RTOS。
+
+* [zephyr](https://github.com/zephyrproject-rtos/zephyr) - 貌似这款RTOS越来越流行了。
+
+CLI(命令行界面)
+* [lwshell](https://github.com/MaJerle/lwshell) - 用于嵌入式系统的轻量级、平台无关的命令行 shell。
+
+* [xcmd](https://gitee.com/two_salted_eggs/xcmd) - 为单片机提供一个能够快速搭建且占用资源很小的命令行工具。
+
+* [nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) - 针对资源较少的MCU编写的基本命令行工具。
+
+USB协议栈
+* [CherryUSB](https://gitee.com/RT-Thread-Mirror/CherryUSB?_from=gitee_search) - 用于嵌入式系统的USB（带USB IP）主从协议栈。
+
+* [tinyusb](https://github.com/hathach/tinyusb) - github上比较流行的用于嵌入式系统的开源跨平台 USB 主机/设备堆栈。
+
 [stm32-bootloader](https://github.com/akospasztor/stm32-bootloader) - 用于STM32微控制器的可定制的Bootloader。该项目可应用于利用外部SD卡对STM32进行IAP（in-application-programming）编程。
 
 [Regexp](https://github.com/nickgammon/Regexp) - 可以用在嵌入式平台的正则表达式库。
