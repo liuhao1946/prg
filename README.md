@@ -34,6 +34,32 @@ IMU融合算法
 
 [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - 怎样称为底层程序员，该库更多针对的是Linux的学习。
 
+## 第三方嵌入式开源库
+
+
+[stm32-bootloader](https://github.com/akospasztor/stm32-bootloader) - 用于STM32微控制器的可定制的Bootloader。该项目可应用于利用外部SD卡对STM32进行IAP（in-application-programming）编程。
+
+[Regexp](https://github.com/nickgammon/Regexp) - 可以用在嵌入式平台的正则表达式库。
+
+[EasyLogger](https://gitee.com/Armink/EasyLogger) - 超轻量级的C/C++日志库，适合对资源敏感的软件项目。
+
+[FlashDB](https://gitee.com/Armink/FlashDB) - 超轻量级的嵌入式数据库。
+
+[CmBacktrace](https://gitee.com/Armink/CmBacktrace) - 针对 ARM Cortex-M 系列 MCU 的错误代码自动追踪、定位，错误原因自动分析的开源库。
+
+[SFUD](https://gitee.com/Armink/SFUD) - 串行 Flash 通用驱动库。
+
+[MultiButton](https://github.com/0x1abin/MultiButton) - 小巧简单易用的事件驱动型按键驱动模块，可无限量扩展按键。
+
+[lwrb](https://github.com/MaJerle/lwrb) - 通用的 FIFO 环形缓冲区实现，最大亮点在于该FIFO可与DMA无缝结合。
+
+[lwmem](https://github.com/MaJerle/lwmem) - 适合嵌入式平台的动态内存分配库。
+
+[cAT](https://github.com/marcinbor85/cAT) - 在嵌入式设备中解析AT指令的库。
+
+[mOTA](https://gitee.com/DinoHaw/mOTA) - 专为32位 MCU 开发的 OTA 组件。
+
+[btstack](https://github.com/bluekitchen/btstack) - 蓝牙开源协议栈，但并非完全开源。
 
 ## 编程风格与规范
 [360 安全规则集合](https://github.com/Qihoo360/safe-rules) - 360出品的C/C++的编程规范与风格。
