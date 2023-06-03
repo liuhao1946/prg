@@ -33,3 +33,28 @@ IMU融合算法
 [bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - 裸机编程指南。为那些希望用GCC编译器和数据手册而无需其他任何东西就能开始为微控制器（单片机）编程的开发者而写。
 
 [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - 怎样称为底层程序员，该库更多针对的是Linux的学习。
+
+
+## 编程风格与规范
+[360 安全规则集合](https://github.com/Qihoo360/safe-rules) - 360出品的C/C++的编程规范与风格。
+
+[Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst) - Linux内核代码风格。
+
+## 其他
+[Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时登月舱的AGC（制导计算机）系统，仅用来膜拜。
+
+[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) - 怎么问问题？与编程没有直接关系，但也很重要。
+
+[Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 谷歌软件工程，可以观摩一下。
+
+[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 定期推送各种语言的流行库。
+
+[document-style-guide](https://github.com/ruanyf/document-style-guide) - 阮一峰的中文文档写作指南。
+
+[科技爱好者周刊](https://github.com/ruanyf/weekly) - 阮一峰的科技分享。
+
+[Arduino](https://github.com/arduino) - Arduino的代码库，你可以从中找到很多很好的适合嵌入式平台的C++库。
+
+## 贡献
+贡献规则：
+> \[仓库名称](仓库网址) - 简要的描述。 
