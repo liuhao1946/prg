@@ -35,7 +35,13 @@ IMU融合算法
 [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - 怎样称为底层程序员，该库更多针对的是Linux的学习。
 
 ## 第三方嵌入式开源库
+GPS数据解析库
+* [libnmea](https://github.com/jacketizer/libnmea) - 用于解析NMEA 0183的C库。
 
+* [lwgps](https://github.com/MaJerle/lwgps) - 轻量级GPS NMEA解析库。
+
+GUI
+* [UGUI](https://github.com/achimdoebler/UGUI) - 开源小型GUI，该仓库已经停止维护。虽然提供的功能很少，但做为学习GUI原理的却是一份相当不错的资料。
 
 文件系统
 * [fatfs](https://github.com/abbrev/fatfs) - 用于小型嵌入式系统的通用 FAT 文件系统模块，该文件系统能直接被windows支持。
