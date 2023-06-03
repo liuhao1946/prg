@@ -43,6 +43,16 @@ GPS数据解析库
 GUI
 * [UGUI](https://github.com/achimdoebler/UGUI) - 开源小型GUI，该仓库已经停止维护。虽然提供的功能很少，但做为学习GUI原理的却是一份相当不错的资料。
 
+* [lvgl](https://github.com/lvgl/lvgl) - 在嵌入式中很流行的开源GUI库。
+
+* [MiniGUI](https://github.com/VincentWei/MiniGUI) - 可用在嵌入式平台的开源GUI库。
+
+* [GuiLite](https://github.com/idea4good/GuiLite) - 该GUI库虽然号称只有4000+行C++代码，但是也正因为小，所以很多功能需要自己去实现。
+
+* [LingLongGUI](https://gitee.com/gzbkey/LingLongGUI) - 适用于嵌入式平台的国产GUI。
+
+* [u8g2](https://github.com/olikraus/u8g2) - 适合嵌入式平台的单色图形库。
+
 文件系统
 * [fatfs](https://github.com/abbrev/fatfs) - 用于小型嵌入式系统的通用 FAT 文件系统模块，该文件系统能直接被windows支持。
 
