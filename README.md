@@ -43,6 +43,8 @@ GPS数据解析库
 GUI
 * [UGUI](https://github.com/achimdoebler/UGUI) - 开源小型GUI，该仓库已经停止维护。虽然提供的功能很少，但做为学习GUI原理的却是一份相当不错的资料。
 
+* [awtk](https://github.com/zlgopen/awtk/blob/master/README_zh.md) - 周立功出品的开源GUI，看上去比较流行。该开源GUI目前是由《系统程序员成长计划》的作者李先静维护。
+
 * [lvgl](https://github.com/lvgl/lvgl) - 在嵌入式中很流行的开源GUI库。
 
 * [MiniGUI](https://github.com/VincentWei/MiniGUI) - 可用在嵌入式平台的开源GUI库。
