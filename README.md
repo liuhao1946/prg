@@ -125,6 +125,8 @@ USB协议栈
 
 [Arduino](https://github.com/arduino) - Arduino的代码库，你可以从中找到很多很好的适合嵌入式平台的C++库。
 
+[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - 每个程序员都应该知道的。里面汇总了很多重要、有趣的论文、书籍以及计算机中的重要概念。
+
 ## 贡献
 贡献规则：
 > \[仓库名称](仓库网址) - 简要的描述。 
