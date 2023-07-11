@@ -110,6 +110,8 @@ USB协议栈
 
 [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst) - Linux内核代码风格。
 
+[Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - 整洁代码笔记。
+
 ## 其他
 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时登月舱的AGC（制导计算机）系统，仅用来膜拜。
 
@@ -126,6 +128,8 @@ USB协议栈
 [Arduino](https://github.com/arduino) - Arduino的代码库，你可以从中找到很多很好的适合嵌入式平台的C++库。
 
 [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - 每个程序员都应该知道的。里面汇总了很多重要、有趣的论文、书籍以及计算机中的重要概念。
+
+[我做系统架构的一些原则](https://coolshell.cn/articles/21672.html) - 左耳朵耗子的一篇文章。
 
 ## 贡献
 贡献规则：
