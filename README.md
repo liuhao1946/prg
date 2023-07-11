@@ -129,7 +129,7 @@ USB协议栈
 
 [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - 每个程序员都应该知道的。里面汇总了很多重要、有趣的论文、书籍以及计算机中的重要概念。
 
-[我做系统架构的一些原则](https://coolshell.cn/articles/21672.html) - 来自左耳朵耗子的一篇文章。
+[我做系统架构的一些原则](https://coolshell.cn/articles/21672.html) - gitee不准写人名，没办法。
 
 ## 贡献
 贡献规则：
