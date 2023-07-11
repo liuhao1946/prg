@@ -110,8 +110,7 @@ USB协议栈
 
 [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst) - Linux内核代码风格。
 
-[整洁代码笔记](https://github.com/JuanCrg90/Clean-Code-Notes) - 如何编写规范代码的笔记。
-
+[整洁代码笔记](https://github.com/JuanCrg90/Clean-Code-Notes) 
 ## 其他
 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - 阿姆斯特朗登月时登月舱的AGC（制导计算机）系统，仅用来膜拜。
 
